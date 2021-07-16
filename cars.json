@@ -1,0 +1,40 @@
+[
+  {
+      "type": "F1",
+      "marka": "Ferrari",
+      "rok_produkcji": 2018,
+      "zuzycie_paliwa": 170
+  },
+  {
+      "type": "F1",
+      "marka": "Lamborghini",
+      "rok_produkcji": 2021,
+      "zuzycie_paliwa": 140
+  },
+  {
+      "type": "Osobowy",
+      "marka": "Skoda",
+      "rok_produkcji": 2003,
+      "zuzycie_paliwa": 90
+  },
+  {
+      "type": "Osobowy",
+      "marka": "Audi",
+      "rok_produkcji": 2002,
+      "zuzycie_paliwa": 70
+  },
+  {
+      "type": "Osobowy",
+      "marka": "Fiat",
+      "rok_produkcji": 1998,
+      "zuzycie_paliwa": 100
+  },
+  {
+      "type": "Cienzarowy",
+      "marka": "Scania",
+      "rok_produkcji": 2010,
+      "zuzycie_paliwa": 2500
+  }
+]
+ 
+ 
